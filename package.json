@@ -1,0 +1,23 @@
+{
+  "name": "alena-test-automation",
+  "version": "1.0.0",
+  "description": "test purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alena-fed25/alena-test-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alena-fed25/alena-test-automation/issues"
+  },
+  "homepage": "https://github.com/alena-fed25/alena-test-automation#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
