@@ -1,20 +1,24 @@
 # Hotkeys in JetBrains Aqua (Windows)
 
-## Navigation
+## Search
 
 - **Search Everywhere** – `Shift` ×2  
   Global search for files, symbols, actions, classes.
 
-- **Find File** – `Ctrl + Shift + N`
-  Quickly opens any file by name.
+- **Search in File** – `Ctrl + F`
+  Search for a string in the current file.
 
 - **Find in Project** – `Ctrl + Shift + F`
   Search for a string in the entire project.
 
-- **Go to Line** – `Ctrl + G`
-  Jump directly to a specific line number.
+- **Go to Definition** – `Ctrl + B` or `Ctrl + click`
+  This will take you to the place where the class, method, variable, etc. is declared.
 
+- 
 ## Editing
+
+- **Select all occurrences** – `Ctrl + Alt + Shift + J`
+  Select all matching words in the file and enables multi-cursor editing
 
 - **Rename symbol** – `Shift + F6`  
   Refactor → Rename variable, function, etc.
@@ -23,24 +27,18 @@
 
 - **Delete line** – `Ctrl + Y`
 
-## Navigation Between Tabs
+## Navigation
 
 - **Next tab** – `Alt + Right`
 - **Previous tab** – `Alt + Left`
-- **Close tab** – `Ctrl + F4`
+- **Navigate Back** – `Ctrl + Alt + Left arrow`
+- **Navigate Forward** – `Ctrl + Alt + Right arrow`
 
 ## Run & Debug
 
 - **Run current test or file** – `Ctrl + Shift + F10`
 - **Debug** – `Shift + F9`
 - **Toggle breakpoint** – `Ctrl + F8`
-
-[//]: # (## 🧪 Testing)
-
-[//]: # ()
-[//]: # (- **Run all tests** – `Ctrl + Shift + F10` on test file)
-
-[//]: # (- **Rerun last test** – `Shift + F10`)
 
 ## ⚙️ How to Customize Hotkeys
 
